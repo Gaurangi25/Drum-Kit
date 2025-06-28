@@ -2,6 +2,8 @@
 
 A fun, interactive web-based drum kit built using HTML, CSS, and JavaScript.
 
+🎧 [Live Demo](https://gaurangi25.github.io/Drum-Kit/)
+
 ## 🎹 Features
 
 - Play different drum sounds using keyboard keys or click
